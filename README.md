@@ -1,4 +1,6 @@
 # Customer Segment Project with RFM Analysis
+View my full process of this project on my portfolio website: [Here](https://hoangphipv.id.vn/project2.html)
+
 
 Welcome to the Customer Segment Project! In this project, I delve into the world of customer segmentation using the powerful techniques of RFM (Recency, Frequency, Monetary) Analysis. I employ a combination of SQL for analysis, Power Query for data extraction, and Power BI to create interactive dashboards.
 
